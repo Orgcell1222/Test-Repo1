@@ -1,1 +1,1 @@
-wefrgtehr
+print "abcd"
